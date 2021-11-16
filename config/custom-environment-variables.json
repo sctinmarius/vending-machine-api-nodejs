@@ -1,0 +1,4 @@
+{
+  "db": "CONNECT_DB",
+  "JWTKey": "JWT_PASSWORD"
+}
